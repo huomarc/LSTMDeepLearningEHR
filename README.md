@@ -1,2 +1,4 @@
-# LSTMDeepLearningEHR
-LSTM-based Deep Learning Model on Structured MIMIC-III Data
+# LSTM-based Deep Learning Prediction Model on Structured MIMIC-III Data: Sepsis Risk Factor Detection & BERT Embedding Readmission Prediction
+
+
+
